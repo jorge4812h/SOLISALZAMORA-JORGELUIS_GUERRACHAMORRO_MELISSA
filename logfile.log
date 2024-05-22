@@ -1,0 +1,27 @@
+[2024-05-21 19:40:31] [ ERROR] [OdontologoTest:29] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-224]
+[2024-05-21 19:41:27] [ INFO ] [OdontologoIDao:44] Odontologo Registrado: Odontologo(id=2, nombre='Pepito', apellido='Limaña', matricula='123455')
+[2024-05-21 19:52:00] [ INFO ] [OdontologoIDao:46] Odontologo Registrado: Odontologo(id=2, nombre='Pepito', apellido='Limaña', matricula='123455')
+[2024-05-21 19:52:00] [ INFO ] [OdontologoIDao:94] Listado de Odontologos:[Odontologo(id=1, nombre='LUIS', apellido='MARTINEZ', matricula='12345')]
+[2024-05-21 19:52:00] [ INFO ] [OdontologoIDao:94] Listado de Odontologos:[Odontologo(id=1, nombre='LUIS', apellido='MARTINEZ', matricula='12345'), Odontologo(id=2, nombre='Pepito', apellido='Limaña', matricula='123455')]
+[2024-05-21 19:52:44] [ INFO ] [OdontologoIDao:46] Odontologo Registrado: Odontologo(id=2, nombre='Pepito', apellido='Limaña', matricula='123455')
+[2024-05-21 19:52:44] [ INFO ] [OdontologoIDao:94] Listado de Odontologos:[Odontologo(id=1, nombre='LUIS', apellido='MARTINEZ', matricula='12345')]
+[2024-05-21 19:52:44] [ INFO ] [OdontologoIDao:94] Listado de Odontologos:[Odontologo(id=1, nombre='LUIS', apellido='MARTINEZ', matricula='12345'), Odontologo(id=2, nombre='Pepito', apellido='Limaña', matricula='123455')]
+[2024-05-21 19:53:27] [ INFO ] [OdontologoIDao:46] Odontologo Registrado: Odontologo(id=2, nombre='Pepito', apellido='Limaña', matricula='123455')
+[2024-05-21 19:53:27] [ INFO ] [OdontologoIDao:95] Listado de Odontologos:[Odontologo(id=1, nombre='LUIS', apellido='MARTINEZ', matricula='12345'), Odontologo(id=2, nombre='Pepito', apellido='Limaña', matricula='123455')]
+[2024-05-21 19:53:43] [ INFO ] [OdontologoIDao:46] Odontologo Registrado: Odontologo(id=2, nombre='Pepito', apellido='Limaña', matricula='123455')
+[2024-05-21 19:53:43] [ INFO ] [OdontologoIDao:95] Listado de Odontologos:[Odontologo(id=1, nombre='LUIS', apellido='MARTINEZ', matricula='12345'), Odontologo(id=2, nombre='Pepito', apellido='Limaña', matricula='123455')]
+[2024-05-21 20:02:40] [ INFO ] [OdontologoIDao:46] Odontologo Registrado: Odontologo(id=3, nombre='Pepito', apellido='Limaña', matricula='123455')
+[2024-05-21 20:03:59] [ INFO ] [OdontologoIDao:46] Odontologo Registrado: Odontologo(id=4, nombre='Pepito', apellido='Limaña', matricula='123455')
+[2024-05-21 20:03:59] [ INFO ] [OdontologoIDao:95] Listado de Odontologos:[Odontologo(id=1, nombre='LUIS', apellido='MARTINEZ', matricula='12345'), Odontologo(id=2, nombre='Pepito', apellido='Limaña', matricula='123455'), Odontologo(id=3, nombre='Pepito', apellido='Limaña', matricula='123455'), Odontologo(id=4, nombre='Pepito', apellido='Limaña', matricula='123455')]
+[2024-05-21 20:04:11] [ INFO ] [OdontologoIDao:46] Odontologo Registrado: Odontologo(id=5, nombre='Pepito', apellido='Limaña', matricula='123455')
+[2024-05-21 20:04:11] [ INFO ] [OdontologoIDao:95] Listado de Odontologos:[Odontologo(id=1, nombre='LUIS', apellido='MARTINEZ', matricula='12345'), Odontologo(id=2, nombre='Pepito', apellido='Limaña', matricula='123455'), Odontologo(id=3, nombre='Pepito', apellido='Limaña', matricula='123455'), Odontologo(id=4, nombre='Pepito', apellido='Limaña', matricula='123455'), Odontologo(id=5, nombre='Pepito', apellido='Limaña', matricula='123455')]
+[2024-05-21 20:04:41] [ INFO ] [OdontologoIDao:95] Listado de Odontologos:[Odontologo(id=1, nombre='LUIS', apellido='MARTINEZ', matricula='12345'), Odontologo(id=2, nombre='Pepito', apellido='Limaña', matricula='123455'), Odontologo(id=3, nombre='Pepito', apellido='Limaña', matricula='123455'), Odontologo(id=4, nombre='Pepito', apellido='Limaña', matricula='123455'), Odontologo(id=5, nombre='Pepito', apellido='Limaña', matricula='123455')]
+[2024-05-21 20:07:15] [ INFO ] [OdontologoIDao:95] Listado de Odontologos:[Odontologo(id=1, nombre='LUIS', apellido='MARTINEZ', matricula='12345'), Odontologo(id=2, nombre='Pepito', apellido='Limaña', matricula='123455'), Odontologo(id=3, nombre='Pepito', apellido='Limaña', matricula='123455'), Odontologo(id=4, nombre='Pepito', apellido='Limaña', matricula='123455'), Odontologo(id=5, nombre='Pepito', apellido='Limaña', matricula='123455')]
+[2024-05-21 20:09:49] [ INFO ] [OdontologoEnMemoria:31] Listado de Pacientes:[]
+[2024-05-21 20:10:03] [ INFO ] [OdontologoEnMemoria:23] Odontologo Registrado: Odontologo(id=1, nombre='Pepito', apellido='Limaña', matricula='123455')
+[2024-05-21 20:10:24] [ INFO ] [OdontologoEnMemoria:23] Odontologo Registrado: Odontologo(id=1, nombre='Pepito', apellido='Limaña', matricula='123455')
+[2024-05-21 20:10:24] [ INFO ] [OdontologoEnMemoria:31] Listado de Pacientes:[Odontologo(id=1, nombre='Pepito', apellido='Limaña', matricula='123455')]
+[2024-05-21 20:10:34] [ INFO ] [OdontologoEnMemoria:23] Odontologo Registrado: Odontologo(id=1, nombre='Pepito', apellido='Limaña', matricula='123455')
+[2024-05-21 20:10:34] [ INFO ] [OdontologoEnMemoria:31] Listado de Pacientes:[Odontologo(id=1, nombre='Pepito', apellido='Limaña', matricula='123455')]
